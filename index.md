@@ -1,15 +1,15 @@
-## Welcome to **Ricardo S Jacomini** Pages
+# Welcome to **Ricardo S Jacomini** Pages
 
 This site for sharing software, articles and datasets used in publications, subjects and courses.
 
-### Resources
+## Resources
 
 
-# Additional resources used in publications
+### Additional resources used in publications
 
 [Publications](https://github.com/ricardojacomini/ricardojacomini.github.io/publications.md)
 
-# Courses and Classes
+### Courses and Classes
 
 [Materials](https://github.com/ricardojacomini/ricardojacomini.github.io/classes.md)
 
