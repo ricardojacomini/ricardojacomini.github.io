@@ -1,38 +1,13 @@
 ## Welcome to Ricardo S Jacomini Pages
 
-This site for sharing software, articles and datasets used in publications.
+This site for This site for sharing software, articles and datasets used in publications, subjects and courses.
 
-You can use the [editor on GitHub](https://github.com/ricardojacomini/ricardojacomini.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+- [Additional resources used in publications] (https://github.com/ricardojacomini/ricardojacomini.github.io/publications.md)
+- [Courses and Classes] (https://github.com/ricardojacomini/ricardojacomini.github.io/classes.md)
 
-Additional resources used in publications
 
-# Journal of Computational Biology 
+### Contact
 
-- [GeNIA](https://github.com/ricardojacomini/ricardojacomini.github.io/edit/master/index.md): Gene Network Inference App for Cytoscape 
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ricardojacomini/ricardojacomini.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+email: ricardo.jacomini@usp.br
