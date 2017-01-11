@@ -8,12 +8,12 @@ This site for sharing software, articles and datasets used in publications, subj
 
 ### Resources
 
-[Publications](https://github.com/ricardojacomini/ricardojacomini.github.io/publications.md)
+[Publications](https://github.com/ricardojacomini/ricardojacomini.github.io/blob/master/publications.md)
 
 
 ### Courses and Classes
 
-[Materials](https://github.com/ricardojacomini/ricardojacomini.github.io/classes.md)
+[Materials](https://github.com/ricardojacomini/ricardojacomini.github.io/blob/master/classes.md)
 
 
 
