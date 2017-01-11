@@ -4,11 +4,12 @@ This site for This site for sharing software, articles and datasets used in publ
 
 
 ```markdown
+Syntax highlighted 
 
 - [Additional resources used in publications] (https://github.com/ricardojacomini/ricardojacomini.github.io/publications.md)
 - [Courses and Classes] (https://github.com/ricardojacomini/ricardojacomini.github.io/classes.md)
 
 
-### Contact
+### Support or Contact
 
 email: ricardo.jacomini@usp.br
