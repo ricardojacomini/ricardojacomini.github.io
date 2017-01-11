@@ -4,8 +4,6 @@ This site for sharing software, articles and datasets used in publications, subj
 
 ### Resources
 
-```markdown
-
 
 # Additional resources used in publications
 
@@ -15,7 +13,6 @@ This site for sharing software, articles and datasets used in publications, subj
 
 [Materials](https://github.com/ricardojacomini/ricardojacomini.github.io/classes.md)
 
-```
 
 
 
