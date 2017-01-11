@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Ricardo S Jacomini Pages
+
+This site for sharing software, articles and datasets used in publications.
 
 You can use the [editor on GitHub](https://github.com/ricardojacomini/ricardojacomini.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
