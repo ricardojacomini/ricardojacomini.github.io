@@ -2,12 +2,14 @@
 
 This site for sharing software, articles and datasets used in publications, subjects and courses.
 
-## Resources
 
 
-### Additional resources used in publications
+## Additional resources used in publications
+
+### Resources
 
 [Publications](https://github.com/ricardojacomini/ricardojacomini.github.io/publications.md)
+
 
 ### Courses and Classes
 
