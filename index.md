@@ -21,7 +21,6 @@ Ricardo de Souza Jacomini was born in Santo André Brazil, in 1974. He received 
 
 ## Additional resources used in publications
 
-### Resources
 
 1. Journal of Computational Biology  - 2017
 
