@@ -8,7 +8,7 @@ Some researchers have applied statistical approaches, while others perform a mol
 This project is being applied simulation of gene expression data and artificial intelligence techniques. An algorithm for multi-resolution analysis will be developed, aiming to model the dynamics of the signals involved in the regulatory process. Genes with similar biological functions will be grouped, defining different levels of similarity between predictors genes and targets genes. It is expected an algorithm more efficient for features selection to infer the predictors genes in relation to one target genes, combining a method of multi-variate and multi-resolution analysis. After that will be applied validation metrics to this methodology, using an In Silico benchmark of gene expression data. The results of this project will assist professionals in biomedical and related areas in decision-making in relation to the dynamics of the control of gene regulatory systems in real databases.
 
 
-# Keywords: Multivariate and Multiresolution Analysis, Probabilistic Gene Networks, Statistical Learning.
+### Keywords: Multivariate and Multiresolution Analysis, Probabilistic Gene Networks, Statistical Learning.
 
 
 ## Biography
