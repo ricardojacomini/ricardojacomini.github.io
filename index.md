@@ -10,13 +10,13 @@ This site for sharing software, articles and datasets used in publications, subj
 
 ### Journal of Computational Biology  - 2017
 
-[GeNIA: Gene Network Inference App for Cytoscape](https://www.dropbox.com/sh/f457radf8n3s2v4/AAB5OAM2DsfJ9zV9r-_smKOLa?dl=0/genia-1.0.53.jar)
+[GeNIA: Gene Network Inference App for Cytoscape](https://www.dropbox.com/sh/h8bvfsuaneh9w9q/AAByFKO5nwZ1inwwmWJfqbWVa?dl=0/genia-1.0.53.jar)
 
 ### Real dataset
-[Plasmodium falciparum](https://www.dropbox.com/sh/f457radf8n3s2v4/AAB5OAM2DsfJ9zV9r-_smKOLa?dl=0/jcb2017/plasmodium.txt)
+[Plasmodium falciparum HB3](https://www.dropbox.com/sh/h8bvfsuaneh9w9q/AAByFKO5nwZ1inwwmWJfqbWVa?dl=0/plasmodium.xls)
 
 ### In silico dataset
-[SySGenSYM](https://www.dropbox.com/sh/f457radf8n3s2v4/AAB5OAM2DsfJ9zV9r-_smKOLa?dl=0/jcb2017/dream.txt)
+[SySGenSYM](https://www.dropbox.com/sh/h8bvfsuaneh9w9q/AAByFKO5nwZ1inwwmWJfqbWVa?dl=0/dream.txt)
 
 
 
