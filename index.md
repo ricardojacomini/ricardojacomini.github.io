@@ -24,8 +24,8 @@ Ricardo de Souza Jacomini was born in Santo André Brazil, in 1974. He received 
 
 1. Journal of Computational Biology  - 2017
 
-### Gene Network Inference App for Cytoscape
-  - [GeNIA](https://www.dropbox.com/sh/h8bvfsuaneh9w9q/AAByFKO5nwZ1inwwmWJfqbWVa?dl=0/genia-1.0.53.jar)
+### Gene Network Inference PGN for Cytoscape
+  - [GeNICE](https://www.dropbox.com/sh/h8bvfsuaneh9w9q/AAByFKO5nwZ1inwwmWJfqbWVa?dl=0/genia-1.0.53.jar)
 
 ### Expression profile
   - [Plasmodium falciparum HB3](https://www.dropbox.com/sh/h8bvfsuaneh9w9q/AAByFKO5nwZ1inwwmWJfqbWVa?dl=0/plasmodium.xls)
